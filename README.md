@@ -2,6 +2,7 @@
 This repository is about the basic image processing using OpenCV in Python. All the projects under this repository were run on Google Colaboratory. 
 
 **1. Color Pop Effect - Use color family (red/green/blue)**
+
 _Before_
 ![bg1](https://user-images.githubusercontent.com/75424430/154273725-875f5d05-2818-4322-b1f7-88ff0ed4a39c.png)
 
@@ -13,6 +14,7 @@ _After_
 
 
 **2. Color Pop Effect - Use RGB color code**
+
 _Before_
 ![bg1](https://user-images.githubusercontent.com/75424430/154273937-07e74e98-3b31-43a1-9d5c-b341564c2280.png) 
 
