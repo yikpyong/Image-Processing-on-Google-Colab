@@ -3,9 +3,9 @@ This repository is about the basic image processing using OpenCV in Python. All 
 
 **1. Color Pop Effect - Use color family (red/green/blue)**
 
-_Before_          _After_
 
-![bg1](https://user-images.githubusercontent.com/75424430/154273725-875f5d05-2818-4322-b1f7-88ff0ed4a39c.png)                   ![bg1_Blue](https://user-images.githubusercontent.com/75424430/154273893-5d0d12db-b2fa-4379-bf77-f2b3ec1923e1.png)
+
+![bg1](https://user-images.githubusercontent.com/75424430/154273725-875f5d05-2818-4322-b1f7-88ff0ed4a39c.png)  ----->                      ![bg1_Blue](https://user-images.githubusercontent.com/75424430/154273893-5d0d12db-b2fa-4379-bf77-f2b3ec1923e1.png)
 
 
 
